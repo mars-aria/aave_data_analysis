@@ -1,0 +1,2 @@
+# aave_data_analysis
+For a human-centered data science assignment, I analyze how Google's Perspective API tool detects and categorizes Black language data, also known as AAVE (African-American Vernacular English), from Twitter. My goal is to ascertain whether or not the Perspective API tool will flag AAVE as being toxic. I will also attempt to verify if it does so at a frequency level higher than with other types of language data (i.e. expletives, racial slurs, etc.).
